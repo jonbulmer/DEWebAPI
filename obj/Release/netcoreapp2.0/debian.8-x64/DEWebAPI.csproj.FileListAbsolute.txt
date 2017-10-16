@@ -1,0 +1,13 @@
+C:\WorkSpace\DiamondEdge\DEWebAPI\bin\Release\netcoreapp2.0\debian.8-x64\libhostpolicy.so
+C:\WorkSpace\DiamondEdge\DEWebAPI\bin\Release\netcoreapp2.0\debian.8-x64\libhostfxr.so
+C:\WorkSpace\DiamondEdge\DEWebAPI\bin\Release\netcoreapp2.0\debian.8-x64\DEWebAPI
+C:\WorkSpace\DiamondEdge\DEWebAPI\bin\Release\netcoreapp2.0\debian.8-x64\DEWebAPI.deps.json
+C:\WorkSpace\DiamondEdge\DEWebAPI\bin\Release\netcoreapp2.0\debian.8-x64\DEWebAPI.runtimeconfig.json
+C:\WorkSpace\DiamondEdge\DEWebAPI\bin\Release\netcoreapp2.0\debian.8-x64\DEWebAPI.runtimeconfig.dev.json
+C:\WorkSpace\DiamondEdge\DEWebAPI\bin\Release\netcoreapp2.0\debian.8-x64\DEWebAPI.dll
+C:\WorkSpace\DiamondEdge\DEWebAPI\bin\Release\netcoreapp2.0\debian.8-x64\DEWebAPI.pdb
+C:\WorkSpace\DiamondEdge\DEWebAPI\obj\Release\netcoreapp2.0\debian.8-x64\DEWebAPI.csproj.CoreCompileInputs.cache
+C:\WorkSpace\DiamondEdge\DEWebAPI\obj\Release\netcoreapp2.0\debian.8-x64\DEWebAPI.AssemblyInfoInputs.cache
+C:\WorkSpace\DiamondEdge\DEWebAPI\obj\Release\netcoreapp2.0\debian.8-x64\DEWebAPI.AssemblyInfo.cs
+C:\WorkSpace\DiamondEdge\DEWebAPI\obj\Release\netcoreapp2.0\debian.8-x64\DEWebAPI.dll
+C:\WorkSpace\DiamondEdge\DEWebAPI\obj\Release\netcoreapp2.0\debian.8-x64\DEWebAPI.pdb

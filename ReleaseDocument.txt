@@ -1,0 +1,47 @@
+Diamond Edge release Document
+
+The release cycle will be 
+MAJOR version when changes When Functionality is significantly different from the previous version
+MINOR version when functionality changes but without effecting current functionality
+PATCH version when you make backwards-compatible bug fixes.
+
+28 August 2017
+0.0.1
+The major version of 0 signifies a pre release state. The software is not ready for any end user to work with. 
+I need to put stuff up to test how it works with the wider internet so that is why the site is here.
+
+The Diamond Edge Angular 2 front end is up with a Home page with the basic outline of the project.
+A company page the consumes the webapi although the api is not working with the Angular site because of cors header on the 
+API.
+
+The webapi that will return the in memory companies list
+https:/diamondedge.co.uk/api/companies
+
+Individual companies can be return with     
+https:/diamondedge.co.uk/api/companies/{companyId}
+
+insert a new company
+Send a post to 
+https:/diamondedge.co.uk/api/companies
+with {"Company":"some text"} 
+set the content type header JSON(application/json)
+this is pre production so all new id will be 3
+
+
+Update
+
+Not implemented at this time
+
+Delete a company 
+send a Delete http request 
+https:/diamondedge.co.uk/api/companies/{companyId}
+
+Both services are behind SSL certificates and the webapi is served via a reverse proxy server.
+
+The site has both a login page and a create new user pages. Both are not working here as 
+work on IdentitiyServer4 is on going.
+
+18 September 2017
+0.0.2
+
+Fixed the cors allow header in the WebAPI.

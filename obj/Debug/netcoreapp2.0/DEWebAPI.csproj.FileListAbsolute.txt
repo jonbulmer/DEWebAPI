@@ -1,0 +1,10 @@
+c:\WorkSpace\DiamondEdge\DEWebAPI\bin\Debug\netcoreapp2.0\DEWebAPI.deps.json
+c:\WorkSpace\DiamondEdge\DEWebAPI\bin\Debug\netcoreapp2.0\DEWebAPI.runtimeconfig.json
+c:\WorkSpace\DiamondEdge\DEWebAPI\bin\Debug\netcoreapp2.0\DEWebAPI.runtimeconfig.dev.json
+c:\WorkSpace\DiamondEdge\DEWebAPI\bin\Debug\netcoreapp2.0\DEWebAPI.dll
+c:\WorkSpace\DiamondEdge\DEWebAPI\bin\Debug\netcoreapp2.0\DEWebAPI.pdb
+c:\WorkSpace\DiamondEdge\DEWebAPI\obj\Debug\netcoreapp2.0\DEWebAPI.csproj.CoreCompileInputs.cache
+c:\WorkSpace\DiamondEdge\DEWebAPI\obj\Debug\netcoreapp2.0\DEWebAPI.AssemblyInfoInputs.cache
+c:\WorkSpace\DiamondEdge\DEWebAPI\obj\Debug\netcoreapp2.0\DEWebAPI.AssemblyInfo.cs
+c:\WorkSpace\DiamondEdge\DEWebAPI\obj\Debug\netcoreapp2.0\DEWebAPI.dll
+c:\WorkSpace\DiamondEdge\DEWebAPI\obj\Debug\netcoreapp2.0\DEWebAPI.pdb
